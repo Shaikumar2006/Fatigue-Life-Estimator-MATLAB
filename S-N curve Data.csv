@@ -1,0 +1,401 @@
+Material,Material_Type,Stress_Amplitude_MPa,Number_of_Cycles
+Aluminum 2024-T3,Metal,306.35,1000
+Aluminum 2024-T3,Metal,300.36,2782
+Aluminum 2024-T3,Metal,268.09,7742
+Aluminum 2024-T3,Metal,235.49,21544
+Aluminum 2024-T3,Metal,223.9,59948
+Aluminum 2024-T3,Metal,205.75,166810
+Aluminum 2024-T3,Metal,186.85,464158
+Aluminum 2024-T3,Metal,167.59,1291549
+Aluminum 2024-T3,Metal,153.45,3593813
+Aluminum 2024-T3,Metal,137.35,10000000
+Aluminum 7075-T6,Metal,337.48,1000
+Aluminum 7075-T6,Metal,293.4,2576
+Aluminum 7075-T6,Metal,283.59,6637
+Aluminum 7075-T6,Metal,264.73,17099
+Aluminum 7075-T6,Metal,247.37,44054
+Aluminum 7075-T6,Metal,236.13,113496
+Aluminum 7075-T6,Metal,206.19,292401
+Aluminum 7075-T6,Metal,180.76,753315
+Aluminum 7075-T6,Metal,178.91,1940766
+Aluminum 7075-T6,Metal,161.74,4999999
+Copper,Metal,196.45,1000
+Copper,Metal,190.12,2154
+Copper,Metal,175.23,4641
+Copper,Metal,161.67,10000
+Copper,Metal,153.46,21544
+Copper,Metal,143.69,46415
+Copper,Metal,139.32,100000
+Copper,Metal,128.15,215443
+Copper,Metal,118.63,464158
+Copper,Metal,106.25,1000000
+Nickel,Metal,364.86,1000
+Nickel,Metal,339.93,2154
+Nickel,Metal,329.52,4641
+Nickel,Metal,311.35,10000
+Nickel,Metal,283.14,21544
+Nickel,Metal,266.87,46415
+Nickel,Metal,249.1,100000
+Nickel,Metal,217.99,215443
+Nickel,Metal,208.82,464158
+Nickel,Metal,197.86,1000000
+Zinc,Metal,140.43,1000
+Zinc,Metal,131.7,1994
+Zinc,Metal,124.03,3978
+Zinc,Metal,116.8,7937
+Zinc,Metal,108.85,15832
+Zinc,Metal,104.41,31581
+Zinc,Metal,97.06,62996
+Zinc,Metal,90.65,125660
+Zinc,Metal,83.58,250659
+Zinc,Metal,77.87,499999
+Titanium,Metal,567.77,1000
+Titanium,Metal,514.92,2782
+Titanium,Metal,466.64,7742
+Titanium,Metal,435.2,21544
+Titanium,Metal,391.08,59948
+Titanium,Metal,363.27,166810
+Titanium,Metal,324.23,464158
+Titanium,Metal,293.78,1291549
+Titanium,Metal,269.88,3593813
+Titanium,Metal,252.21,10000000
+Magnesium,Metal,153.03,1000
+Magnesium,Metal,153.84,2154
+Magnesium,Metal,138.96,4641
+Magnesium,Metal,138.32,10000
+Magnesium,Metal,128.94,21544
+Magnesium,Metal,115.95,46415
+Magnesium,Metal,109.46,100000
+Magnesium,Metal,102.4,215443
+Magnesium,Metal,96.9,464158
+Magnesium,Metal,90.04,1000000
+Iron,Metal,290.77,1000
+Iron,Metal,270.16,2154
+Iron,Metal,236.41,4641
+Iron,Metal,229.5,10000
+Iron,Metal,217.45,21544
+Iron,Metal,195.95,46415
+Iron,Metal,180.43,100000
+Iron,Metal,169.13,215443
+Iron,Metal,152.32,464158
+Iron,Metal,148.64,1000000
+Lead,Metal,38.44,1000
+Lead,Metal,36.95,1668
+Lead,Metal,35.72,2782
+Lead,Metal,31.82,4641
+Lead,Metal,34.24,7742
+Lead,Metal,29.72,12915
+Lead,Metal,28.55,21544
+Lead,Metal,27.93,35938
+Lead,Metal,25.79,59948
+Lead,Metal,24.79,100000
+Chromium,Metal,558.09,1000
+Chromium,Metal,508.92,2154
+Chromium,Metal,487.18,4641
+Chromium,Metal,461.92,10000
+Chromium,Metal,422.26,21544
+Chromium,Metal,408.24,46415
+Chromium,Metal,359.11,100000
+Chromium,Metal,347.29,215443
+Chromium,Metal,337.97,464158
+Chromium,Metal,297.46,1000000
+Stainless Steel 304,Alloy,599.35,1000
+Stainless Steel 304,Alloy,532.08,2782
+Stainless Steel 304,Alloy,470.52,7742
+Stainless Steel 304,Alloy,413.08,21544
+Stainless Steel 304,Alloy,390.63,59948
+Stainless Steel 304,Alloy,343.39,166810
+Stainless Steel 304,Alloy,312.19,464158
+Stainless Steel 304,Alloy,296.59,1291549
+Stainless Steel 304,Alloy,269.59,3593813
+Stainless Steel 304,Alloy,230.48,10000000
+Stainless Steel 316,Alloy,524.89,1000
+Stainless Steel 316,Alloy,493.76,2782
+Stainless Steel 316,Alloy,477.47,7742
+Stainless Steel 316,Alloy,405.32,21544
+Stainless Steel 316,Alloy,370.75,59948
+Stainless Steel 316,Alloy,359.22,166810
+Stainless Steel 316,Alloy,312.0,464158
+Stainless Steel 316,Alloy,281.74,1291549
+Stainless Steel 316,Alloy,266.26,3593813
+Stainless Steel 316,Alloy,232.34,10000000
+Inconel 718,Alloy,981.31,1000
+Inconel 718,Alloy,827.25,2782
+Inconel 718,Alloy,761.08,7742
+Inconel 718,Alloy,716.28,21544
+Inconel 718,Alloy,627.71,59948
+Inconel 718,Alloy,623.34,166810
+Inconel 718,Alloy,557.92,464158
+Inconel 718,Alloy,482.37,1291549
+Inconel 718,Alloy,448.11,3593813
+Inconel 718,Alloy,390.64,10000000
+Monel 400,Alloy,637.67,1000
+Monel 400,Alloy,550.12,2576
+Monel 400,Alloy,521.69,6637
+Monel 400,Alloy,475.09,17099
+Monel 400,Alloy,437.84,44054
+Monel 400,Alloy,393.63,113496
+Monel 400,Alloy,361.98,292401
+Monel 400,Alloy,335.6,753315
+Monel 400,Alloy,285.98,1940766
+Monel 400,Alloy,287.15,4999999
+Brass,Alloy,278.52,1000
+Brass,Alloy,265.81,2154
+Brass,Alloy,244.81,4641
+Brass,Alloy,243.43,10000
+Brass,Alloy,201.19,21544
+Brass,Alloy,212.11,46415
+Brass,Alloy,181.7,100000
+Brass,Alloy,170.92,215443
+Brass,Alloy,162.73,464158
+Brass,Alloy,148.63,1000000
+Bronze,Alloy,326.37,1000
+Bronze,Alloy,319.66,2154
+Bronze,Alloy,292.94,4641
+Bronze,Alloy,267.06,10000
+Bronze,Alloy,245.64,21544
+Bronze,Alloy,222.59,46415
+Bronze,Alloy,210.02,100000
+Bronze,Alloy,206.89,215443
+Bronze,Alloy,176.68,464158
+Bronze,Alloy,165.72,1000000
+Tool Steel,Alloy,1186.95,1000
+Tool Steel,Alloy,1122.67,2782
+Tool Steel,Alloy,914.35,7742
+Tool Steel,Alloy,877.17,21544
+Tool Steel,Alloy,840.88,59948
+Tool Steel,Alloy,744.3,166810
+Tool Steel,Alloy,669.06,464158
+Tool Steel,Alloy,632.23,1291549
+Tool Steel,Alloy,533.88,3593813
+Tool Steel,Alloy,514.23,10000000
+Maraging Steel,Alloy,1430.49,1000
+Maraging Steel,Alloy,1283.2,2782
+Maraging Steel,Alloy,1189.07,7742
+Maraging Steel,Alloy,1050.16,21544
+Maraging Steel,Alloy,962.37,59948
+Maraging Steel,Alloy,846.53,166810
+Maraging Steel,Alloy,832.2,464158
+Maraging Steel,Alloy,742.92,1291549
+Maraging Steel,Alloy,674.39,3593813
+Maraging Steel,Alloy,626.57,10000000
+Duralumin,Alloy,403.74,1000
+Duralumin,Alloy,379.14,2576
+Duralumin,Alloy,354.63,6637
+Duralumin,Alloy,317.53,17099
+Duralumin,Alloy,277.15,44054
+Duralumin,Alloy,253.19,113496
+Duralumin,Alloy,238.54,292401
+Duralumin,Alloy,225.73,753315
+Duralumin,Alloy,202.01,1940766
+Duralumin,Alloy,178.39,4999999
+Cast Iron,Alloy,236.68,1000
+Cast Iron,Alloy,214.26,2154
+Cast Iron,Alloy,198.52,4641
+Cast Iron,Alloy,186.79,10000
+Cast Iron,Alloy,170.03,21544
+Cast Iron,Alloy,158.54,46415
+Cast Iron,Alloy,154.53,100000
+Cast Iron,Alloy,133.5,215443
+Cast Iron,Alloy,127.09,464158
+Cast Iron,Alloy,121.84,1000000
+Polycarbonate,Polymer,70.89,1000
+Polycarbonate,Polymer,65.71,1668
+Polycarbonate,Polymer,64.61,2782
+Polycarbonate,Polymer,60.71,4641
+Polycarbonate,Polymer,60.51,7742
+Polycarbonate,Polymer,57.45,12915
+Polycarbonate,Polymer,56.06,21544
+Polycarbonate,Polymer,52.24,35938
+Polycarbonate,Polymer,50.82,59948
+Polycarbonate,Polymer,49.39,100000
+Polyethylene,Polymer,42.05,1000
+Polyethylene,Polymer,40.67,1668
+Polyethylene,Polymer,38.48,2782
+Polyethylene,Polymer,38.27,4641
+Polyethylene,Polymer,37.24,7742
+Polyethylene,Polymer,34.35,12915
+Polyethylene,Polymer,32.65,21544
+Polyethylene,Polymer,32.85,35938
+Polyethylene,Polymer,30.66,59948
+Polyethylene,Polymer,31.15,100000
+Polypropylene,Polymer,33.26,1000
+Polypropylene,Polymer,30.8,1544
+Polypropylene,Polymer,30.71,2385
+Polypropylene,Polymer,30.85,3684
+Polypropylene,Polymer,28.48,5689
+Polypropylene,Polymer,28.4,8787
+Polypropylene,Polymer,27.4,13572
+Polypropylene,Polymer,26.45,20961
+Polypropylene,Polymer,25.52,32373
+Polypropylene,Polymer,25.61,49999
+PVC,Polymer,26.15,1000
+PVC,Polymer,25.06,1544
+PVC,Polymer,25.15,2385
+PVC,Polymer,23.54,3684
+PVC,Polymer,23.52,5689
+PVC,Polymer,22.8,8787
+PVC,Polymer,21.73,13572
+PVC,Polymer,21.32,20961
+PVC,Polymer,21.03,32373
+PVC,Polymer,20.45,49999
+Nylon,Polymer,47.77,1000
+Nylon,Polymer,47.83,1668
+Nylon,Polymer,44.94,2782
+Nylon,Polymer,43.73,4641
+Nylon,Polymer,41.22,7742
+Nylon,Polymer,38.85,12915
+Nylon,Polymer,39.82,21544
+Nylon,Polymer,36.93,35938
+Nylon,Polymer,37.23,59948
+Nylon,Polymer,34.53,100000
+PTFE,Polymer,17.6,1000
+PTFE,Polymer,17.64,1291
+PTFE,Polymer,17.41,1668
+PTFE,Polymer,15.4,2154
+PTFE,Polymer,16.5,2782
+PTFE,Polymer,16.08,3593
+PTFE,Polymer,16.84,4641
+PTFE,Polymer,15.55,5994
+PTFE,Polymer,14.75,7742
+PTFE,Polymer,15.05,10000
+Acrylic,Polymer,40.95,1000
+Acrylic,Polymer,36.97,1668
+Acrylic,Polymer,35.43,2782
+Acrylic,Polymer,34.02,4641
+Acrylic,Polymer,32.71,7742
+Acrylic,Polymer,32.23,12915
+Acrylic,Polymer,32.03,21544
+Acrylic,Polymer,29.94,35938
+Acrylic,Polymer,28.82,59948
+Acrylic,Polymer,28.97,100000
+Epoxy Resin,Polymer,53.78,1000
+Epoxy Resin,Polymer,52.86,1668
+Epoxy Resin,Polymer,53.97,2782
+Epoxy Resin,Polymer,52.3,4641
+Epoxy Resin,Polymer,44.46,7742
+Epoxy Resin,Polymer,44.27,12915
+Epoxy Resin,Polymer,43.1,21544
+Epoxy Resin,Polymer,41.56,35938
+Epoxy Resin,Polymer,41.45,59948
+Epoxy Resin,Polymer,38.34,100000
+ABS,Polymer,61.38,1000
+ABS,Polymer,59.49,1668
+ABS,Polymer,61.17,2782
+ABS,Polymer,54.85,4641
+ABS,Polymer,57.5,7742
+ABS,Polymer,49.59,12915
+ABS,Polymer,50.99,21544
+ABS,Polymer,46.71,35938
+ABS,Polymer,45.02,59948
+ABS,Polymer,44.46,100000
+Polyester,Polymer,44.02,1000
+Polyester,Polymer,41.62,1668
+Polyester,Polymer,45.19,2782
+Polyester,Polymer,41.67,4641
+Polyester,Polymer,38.3,7742
+Polyester,Polymer,36.3,12915
+Polyester,Polymer,35.71,21544
+Polyester,Polymer,34.73,35938
+Polyester,Polymer,33.04,59948
+Polyester,Polymer,31.19,100000
+Alumina,Ceramic,342.84,1000
+Alumina,Ceramic,357.16,1291
+Alumina,Ceramic,332.12,1668
+Alumina,Ceramic,340.16,2154
+Alumina,Ceramic,332.94,2782
+Alumina,Ceramic,315.04,3593
+Alumina,Ceramic,304.22,4641
+Alumina,Ceramic,312.57,5994
+Alumina,Ceramic,298.56,7742
+Alumina,Ceramic,303.51,10000
+Zirconia,Ceramic,385.33,1000
+Zirconia,Ceramic,393.16,1291
+Zirconia,Ceramic,398.22,1668
+Zirconia,Ceramic,379.69,2154
+Zirconia,Ceramic,386.12,2782
+Zirconia,Ceramic,371.91,3593
+Zirconia,Ceramic,359.4,4641
+Zirconia,Ceramic,344.04,5994
+Zirconia,Ceramic,357.41,7742
+Zirconia,Ceramic,350.65,10000
+Silicon Carbide,Ceramic,464.36,1000
+Silicon Carbide,Ceramic,447.12,1291
+Silicon Carbide,Ceramic,444.68,1668
+Silicon Carbide,Ceramic,444.75,2154
+Silicon Carbide,Ceramic,434.75,2782
+Silicon Carbide,Ceramic,446.61,3593
+Silicon Carbide,Ceramic,411.66,4641
+Silicon Carbide,Ceramic,404.65,5994
+Silicon Carbide,Ceramic,407.61,7742
+Silicon Carbide,Ceramic,426.87,10000
+Silicon Nitride,Ceramic,442.03,1000
+Silicon Nitride,Ceramic,421.34,1291
+Silicon Nitride,Ceramic,409.88,1668
+Silicon Nitride,Ceramic,410.88,2154
+Silicon Nitride,Ceramic,421.62,2782
+Silicon Nitride,Ceramic,426.48,3593
+Silicon Nitride,Ceramic,391.02,4641
+Silicon Nitride,Ceramic,372.48,5994
+Silicon Nitride,Ceramic,381.32,7742
+Silicon Nitride,Ceramic,377.9,10000
+Glass,Ceramic,157.5,1000
+Glass,Ceramic,144.99,1000
+Glass,Ceramic,151.9,1000
+Glass,Ceramic,155.87,1000
+Glass,Ceramic,142.43,1000
+Glass,Ceramic,153.49,1000
+Glass,Ceramic,150.24,1000
+Glass,Ceramic,147.2,1000
+Glass,Ceramic,153.05,1000
+Glass,Ceramic,150.0,1000
+Porcelain,Ceramic,95.86,1000
+Porcelain,Ceramic,100.02,1000
+Porcelain,Ceramic,99.23,1000
+Porcelain,Ceramic,104.95,1000
+Porcelain,Ceramic,94.3,1000
+Porcelain,Ceramic,94.54,1000
+Porcelain,Ceramic,102.38,1000
+Porcelain,Ceramic,99.84,1000
+Porcelain,Ceramic,101.37,1000
+Porcelain,Ceramic,91.94,1000
+Titanium Diboride,Ceramic,506.02,1000
+Titanium Diboride,Ceramic,530.58,1291
+Titanium Diboride,Ceramic,524.41,1668
+Titanium Diboride,Ceramic,491.97,2154
+Titanium Diboride,Ceramic,520.8,2782
+Titanium Diboride,Ceramic,493.72,3593
+Titanium Diboride,Ceramic,446.63,4641
+Titanium Diboride,Ceramic,484.35,5994
+Titanium Diboride,Ceramic,426.74,7742
+Titanium Diboride,Ceramic,447.58,10000
+Boron Carbide,Ceramic,544.0,1000
+Boron Carbide,Ceramic,559.63,1291
+Boron Carbide,Ceramic,580.37,1668
+Boron Carbide,Ceramic,545.55,2154
+Boron Carbide,Ceramic,540.39,2782
+Boron Carbide,Ceramic,536.75,3593
+Boron Carbide,Ceramic,518.25,4641
+Boron Carbide,Ceramic,508.62,5994
+Boron Carbide,Ceramic,512.98,7742
+Boron Carbide,Ceramic,509.45,10000
+Magnesia,Ceramic,123.08,1000
+Magnesia,Ceramic,118.04,1000
+Magnesia,Ceramic,119.77,1000
+Magnesia,Ceramic,116.98,1000
+Magnesia,Ceramic,114.31,1000
+Magnesia,Ceramic,124.06,1000
+Magnesia,Ceramic,127.88,1000
+Magnesia,Ceramic,124.01,1000
+Magnesia,Ceramic,125.37,1000
+Magnesia,Ceramic,119.41,1000
+Spinel,Ceramic,133.16,1000
+Spinel,Ceramic,130.23,1000
+Spinel,Ceramic,128.54,1000
+Spinel,Ceramic,122.44,1000
+Spinel,Ceramic,128.48,1000
+Spinel,Ceramic,126.1,1000
+Spinel,Ceramic,134.32,1000
+Spinel,Ceramic,131.63,1000
+Spinel,Ceramic,132.79,1000
+Spinel,Ceramic,126.84,1000
