@@ -1,0 +1,197 @@
+Material,Type,Stress Amplitude (MPa),Number of Cycles
+Aluminum 6061-T6,Metal,439.5,1178
+Aluminum 6061-T6,Metal,384.56,10292
+Aluminum 6061-T6,Metal,329.62,117970
+Aluminum 6061-T6,Metal,274.68,980554
+Copper,Metal,467.19,836
+Copper,Metal,408.79,9680
+Copper,Metal,350.39,85919
+Copper,Metal,291.99,1172284
+Titanium,Metal,345.22,818
+Titanium,Metal,302.07,11424
+Titanium,Metal,258.92,108090
+Titanium,Metal,215.77,975394
+Zinc,Metal,357.45,853
+Zinc,Metal,312.77,10300
+Zinc,Metal,268.09,100294
+Zinc,Metal,223.41,800699
+Magnesium,Metal,371.8,836
+Magnesium,Metal,325.33,11673
+Magnesium,Metal,278.85,118631
+Magnesium,Metal,232.38,884862
+Polyethylene,Polymer,53.6,1160
+Polyethylene,Polymer,46.9,8892
+Polyethylene,Polymer,40.2,102506
+Polyethylene,Polymer,33.5,1062771
+Polystyrene,Polymer,34.46,1007
+Polystyrene,Polymer,30.15,8063
+Polystyrene,Polymer,25.84,104600
+Polystyrene,Polymer,21.54,1050200
+Polycarbonate,Polymer,34.19,808
+Polycarbonate,Polymer,29.91,9410
+Polycarbonate,Polymer,25.64,112108
+Polycarbonate,Polymer,21.37,829284
+Nylon,Polymer,25.07,971
+Nylon,Polymer,21.94,11336
+Nylon,Polymer,18.8,89806
+Nylon,Polymer,15.67,953317
+Epoxy Resin,Polymer,31.98,1066
+Epoxy Resin,Polymer,27.98,11978
+Epoxy Resin,Polymer,23.98,81185
+Epoxy Resin,Polymer,19.99,985585
+Silicon Carbide,Ceramic,170.73,998
+Silicon Carbide,Ceramic,149.39,10431
+Silicon Carbide,Ceramic,128.05,109425
+Silicon Carbide,Ceramic,106.71,1152145
+Alumina,Ceramic,190.04,985
+Alumina,Ceramic,166.28,10214
+Alumina,Ceramic,142.53,83229
+Alumina,Ceramic,118.77,1185421
+Zirconia,Ceramic,83.9,1131
+Zirconia,Ceramic,73.41,11562
+Zirconia,Ceramic,62.92,114375
+Zirconia,Ceramic,52.44,940942
+Boron Carbide,Ceramic,97.53,890
+Boron Carbide,Ceramic,85.34,9790
+Boron Carbide,Ceramic,73.15,110611
+Boron Carbide,Ceramic,60.96,1094774
+Graphite,Ceramic,198.97,1063
+Graphite,Ceramic,174.1,8605
+Graphite,Ceramic,149.23,93835
+Graphite,Ceramic,124.36,976857
+Stainless Steel 304,Alloy,468.91,1046
+Stainless Steel 304,Alloy,410.29,10183
+Stainless Steel 304,Alloy,351.68,92026
+Stainless Steel 304,Alloy,293.07,1154767
+Inconel 718,Alloy,474.97,982
+Inconel 718,Alloy,415.6,9337
+Inconel 718,Alloy,356.23,82307
+Inconel 718,Alloy,296.86,1088694
+Brass,Alloy,465.39,920
+Brass,Alloy,407.22,8025
+Brass,Alloy,349.04,106958
+Brass,Alloy,290.87,1027672
+Bronze,Alloy,326.92,879
+Bronze,Alloy,286.06,9681
+Bronze,Alloy,245.19,116338
+Bronze,Alloy,204.33,1083789
+Nickel Alloy,Alloy,336.89,838
+Nickel Alloy,Alloy,294.78,8477
+Nickel Alloy,Alloy,252.67,117364
+Nickel Alloy,Alloy,210.56,831794
+Tool Steel,Alloy,360.03,1085
+Tool Steel,Alloy,315.02,10131
+Tool Steel,Alloy,270.02,119764
+Tool Steel,Alloy,225.02,1023388
+Cast Iron,Alloy,391.02,1008
+Cast Iron,Alloy,342.14,8198
+Cast Iron,Alloy,293.27,98827
+Cast Iron,Alloy,244.39,992794
+High Speed Steel,Alloy,447.0,874
+High Speed Steel,Alloy,391.12,9349
+High Speed Steel,Alloy,335.25,113541
+High Speed Steel,Alloy,279.37,947347
+Titanium Alloy Ti-6Al-4V,Alloy,392.93,1092
+Titanium Alloy Ti-6Al-4V,Alloy,343.81,10502
+Titanium Alloy Ti-6Al-4V,Alloy,294.69,101625
+Titanium Alloy Ti-6Al-4V,Alloy,245.58,895345
+Carbon Fiber Composite,Polymer,31.92,1000
+Carbon Fiber Composite,Polymer,27.93,10587
+Carbon Fiber Composite,Polymer,23.94,96324
+Carbon Fiber Composite,Polymer,19.95,942733
+Glass Fiber Composite,Polymer,19.06,846
+Glass Fiber Composite,Polymer,16.68,11920
+Glass Fiber Composite,Polymer,14.3,99779
+Glass Fiber Composite,Polymer,11.91,1083667
+ABS,Polymer,45.19,930
+ABS,Polymer,39.54,9444
+ABS,Polymer,33.89,84394
+ABS,Polymer,28.24,1108808
+PVC,Polymer,37.39,802
+PVC,Polymer,32.72,11286
+PVC,Polymer,28.04,117987
+PVC,Polymer,23.37,839496
+Teflon,Polymer,29.24,879
+Teflon,Polymer,25.59,8059
+Teflon,Polymer,21.93,85392
+Teflon,Polymer,18.28,906497
+Mild Steel,Metal,265.4,1013
+Mild Steel,Metal,232.22,9668
+Mild Steel,Metal,199.05,117208
+Mild Steel,Metal,165.87,1166602
+Lead,Metal,286.13,977
+Lead,Metal,250.36,8688
+Lead,Metal,214.59,106418
+Lead,Metal,178.83,948342
+Tin,Metal,324.17,859
+Tin,Metal,283.65,8313
+Tin,Metal,243.13,88354
+Tin,Metal,202.6,906677
+Chromium,Metal,476.92,1085
+Chromium,Metal,417.3,9512
+Chromium,Metal,357.69,110259
+Chromium,Metal,298.07,986244
+Nickel,Metal,415.57,1077
+Nickel,Metal,363.63,8077
+Nickel,Metal,311.68,102772
+Nickel,Metal,259.73,930877
+Yttria-Stabilized Zirconia,Ceramic,104.12,826
+Yttria-Stabilized Zirconia,Ceramic,91.1,11553
+Yttria-Stabilized Zirconia,Ceramic,78.09,100563
+Yttria-Stabilized Zirconia,Ceramic,65.07,806651
+Silicon Nitride,Ceramic,107.85,827
+Silicon Nitride,Ceramic,94.37,11316
+Silicon Nitride,Ceramic,80.89,87439
+Silicon Nitride,Ceramic,67.4,917055
+Tungsten Carbide,Ceramic,225.53,1149
+Tungsten Carbide,Ceramic,197.34,10763
+Tungsten Carbide,Ceramic,169.15,85415
+Tungsten Carbide,Ceramic,140.96,1075909
+Ferritic Steel,Alloy,349.95,1141
+Ferritic Steel,Alloy,306.21,10200
+Ferritic Steel,Alloy,262.47,97209
+Ferritic Steel,Alloy,218.72,1134609
+Austenitic Steel,Alloy,261.54,834
+Austenitic Steel,Alloy,228.85,9271
+Austenitic Steel,Alloy,196.15,117251
+Austenitic Steel,Alloy,163.46,1103529
+Maraging Steel,Alloy,240.96,1022
+Maraging Steel,Alloy,210.84,11369
+Maraging Steel,Alloy,180.72,112383
+Maraging Steel,Alloy,150.6,1100190
+Duplex Stainless Steel,Alloy,478.91,966
+Duplex Stainless Steel,Alloy,419.05,10020
+Duplex Stainless Steel,Alloy,359.19,110279
+Duplex Stainless Steel,Alloy,299.32,900096
+Superalloy (Hastelloy),Alloy,272.13,943
+Superalloy (Hastelloy),Alloy,238.12,11130
+Superalloy (Hastelloy),Alloy,204.1,98852
+Superalloy (Hastelloy),Alloy,170.08,1113238
+Kevlar,Polymer,57.64,1030
+Kevlar,Polymer,50.44,11542
+Kevlar,Polymer,43.23,117845
+Kevlar,Polymer,36.03,1136223
+PBT,Polymer,16.35,1151
+PBT,Polymer,14.31,8615
+PBT,Polymer,12.27,83041
+PBT,Polymer,10.22,877626
+Polyimide,Polymer,47.3,913
+Polyimide,Polymer,41.39,10538
+Polyimide,Polymer,35.47,112744
+Polyimide,Polymer,29.56,920393
+PET,Polymer,47.79,1076
+PET,Polymer,41.81,8874
+PET,Polymer,35.84,112972
+PET,Polymer,29.87,945768
+UHMWPE,Polymer,37.91,886
+UHMWPE,Polymer,33.17,11440
+UHMWPE,Polymer,28.43,103319
+UHMWPE,Polymer,23.69,1179355
+Glass,Ceramic,164.76,926
+Glass,Ceramic,144.17,10443
+Glass,Ceramic,123.57,90343
+Glass,Ceramic,102.98,907716
+Silicon,Ceramic,237.08,919
+Silicon,Ceramic,207.45,10108
+Silicon,Ceramic,177.81,96959
+Silicon,Ceramic,148.18,1130564
