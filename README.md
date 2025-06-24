@@ -21,7 +21,8 @@ An interactive MATLAB app to estimate fatigue life using S-N curve data for meta
 2. Load the provided CSV. (ps : The provided csv files are self generated data not the actual real world data)
 3. Push the Plot button to load the Materials List.
 4. Select an Material to Plot the SN curve.
-5. Now enter your test stress-number of cycles to check if the material survives.
+5. Now you can filter the Material List acoording to the material type using the added new feature drop down box.
+6. Now enter your test stress-number of cycles to check if the material survives.
 
 ## 📚 References
 - ASM Handbook Vol. 19 – Fatigue and Fracture
