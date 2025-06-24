@@ -4,7 +4,7 @@ An interactive MATLAB app to estimate fatigue life using S-N curve data for meta
 - Log-log S-N curve plotting
 - Interpolation of fatigue life from stress input
 - Cumulative damage calculation via Miner’s Rule
-- GUI version using MATLAB App Designer
+- GUI version using MATLAB App Designer 
 
 ## 📁 Project Structure
 - `fatigue_life_estimator.m` – Main script
@@ -13,6 +13,7 @@ An interactive MATLAB app to estimate fatigue life using S-N curve data for meta
 - `plot_sn_curve.m` – Visualizes the S-N curve
 - `sn_data_example.csv` – Sample fatigue data
 - `GUI_version.mlapp` – Optional App Designer GUI
+- The App file is enough to run the whole project but if you want you can download the seperate function files to run in your command window without the GUI
 
 
 ## Run Instructions
